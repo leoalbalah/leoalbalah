@@ -5,7 +5,7 @@
 <!-- Social icons section -->
 <div align="center">
 
-[<img alt="alt_text" width="40px" src="Assets/YouTube.png" />](https://www.google.com/)
+[<img alt="alt_text" width="100px" src="Assets/YouTube.png" />](https://www.google.com/)
 [![name](Assets/YouTube.png)](youtube.com)
 [![name](Assets/Twitter.png)](youtube.com)
 [![name](Assets/LinkedIn.png)](youtube.com)
