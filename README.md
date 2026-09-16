@@ -7,7 +7,6 @@
 Building gameplay systems, tools, and prototypes in Unity/C#.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClc3QXr4D9x_aPE1y5rQ3SQ)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/leoalbalah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-martin-albalah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leoalbalah@gmail.com)
 
@@ -15,7 +14,7 @@ Building gameplay systems, tools, and prototypes in Unity/C#.
 
 ---
 
-### Currently building
+### Check out my work
 
 **[UnityDeveloperConsole](https://github.com/leoalbalah/UnityDeveloperConsole)** — a lightweight, drop-in developer console for the Unity Engine, built for fast in-editor and in-build testing.
 
