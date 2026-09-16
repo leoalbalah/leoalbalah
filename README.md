@@ -1,6 +1,6 @@
 <div align="center">
 
-# Leonardo Albalah
+# Leonardo Martin Albalah
 
 **Software Engineer focused on Game Development**
 
